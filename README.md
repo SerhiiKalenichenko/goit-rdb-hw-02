@@ -5,3 +5,4 @@ Relational Databases Homework 02 — normalization (1NF, 2NF, 3NF) with MySQL Wo
 Initial table normalized to First Normal Form (1NF): atomic values, no repeating groups.
 ## 2NF Schema
 ![2NF](screenshots/2NF_schema.jpg)
+Data split into related tables to eliminate partial dependencies.
