@@ -6,3 +6,6 @@ Initial table normalized to First Normal Form (1NF): atomic values, no repeating
 ## 2NF Schema
 ![2NF](screenshots/2NF_schema.jpg)
 Data split into related tables to eliminate partial dependencies.
+## 3NF Schema
+![3NF](screenshots/3NF_schema.jpg)
+Transitive dependencies removed, product data separated into an independent table.
